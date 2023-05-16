@@ -40,12 +40,18 @@ We connected:
  Connect Rest of the connections are manual which we do in our all circuits. 
  
  Ground Pin 20. 
+
  
  Apply 5 volts to pin 31 and VDD pin in Lcd. 
  
 Connect Oscillator with pin#19(XTAL-1) and 18(XTAL-2) of 8051 in parallel to two 22 pF capacitors. 
 
 reset button with pin#9(reset) of 89c52 microcontroller with 10 Kohm Resistor and 10 uF capacitor.
+
+ ### circuit implementation:
+ 
+ ![WhatsApp Image 2023-05-16 at 18 02 28](https://github.com/sondos-gamal/interfacing-keypad-and-LCD-with-8051/assets/78621105/9650e071-7d57-4244-962b-b246f8fb059e)
+
 
 
 
